@@ -4,3 +4,4 @@ reversed = sentence.split(" ").collect do |word|
 end
   reversed.join(" ")
 end 
+end
